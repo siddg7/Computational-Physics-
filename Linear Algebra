@@ -88,10 +88,6 @@ def solvewithLU(A,B):
     
     return x
 
-
-
-
-
 def inverse(A):
     e1 = np.array(([1.0,0.0,0.0]))
     e2 = np.array(([0.0,1.0,0.0]))
